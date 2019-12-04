@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T02:35:48.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YbJW3qkRQ8BomGgZpQuk" version="12.3.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-04T02:36:01.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wR6T8ogD0p65Ai8pD5Nx" version="12.3.6" type="github" pages="3">
   <diagram id="7Ek2xZR4nPy_wMrCUxnE" name="Page-1">
     <mxGraphModel dx="1020" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,14 @@
         <mxCell id="TJdcT3hgQOtQtT8w2g-t-11" value="售后/客服" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TJdcT3hgQOtQtT8w2g-t-1">
           <mxGeometry x="730" y="240" width="107" height="40" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IMG7n_DoIGk_53zhiTlj" name="实物购买">
+    <mxGraphModel dx="1224" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIMeqda8XIgMcg2HydUv-0"/>
+        <mxCell id="WIMeqda8XIgMcg2HydUv-1" parent="WIMeqda8XIgMcg2HydUv-0"/>
       </root>
     </mxGraphModel>
   </diagram>
