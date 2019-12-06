@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T02:05:29.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GQYuVfAqf-CmzgPVjUh0" version="12.3.7" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-06T02:31:16.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZQY_lwJGXATbIW4t57op" version="12.3.7" type="github" pages="6">
   <diagram id="7Ek2xZR4nPy_wMrCUxnE" name="Page-1">
     <mxGraphModel dx="1148" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,6 +457,14 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1xfDC4wjMFFObq_Oyk5Z" name="支付">
+    <mxGraphModel dx="1148" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="yeYckrKqF_0XWE--L3kt-0"/>
+        <mxCell id="yeYckrKqF_0XWE--L3kt-1" parent="yeYckrKqF_0XWE--L3kt-0"/>
       </root>
     </mxGraphModel>
   </diagram>
