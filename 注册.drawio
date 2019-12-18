@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T00:25:26.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0oRFxcXOtJvz-RMnjbn9" version="12.4.3" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-18T00:44:07.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Bo1hwg2BlQfaV_AtHS1I" version="12.4.3" type="github" pages="7">
   <diagram id="7Ek2xZR4nPy_wMrCUxnE" name="Page-1">
     <mxGraphModel dx="1046" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -480,11 +480,38 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sILno954XP53TJ1m5CQq" name="新流程及细节">
-    <mxGraphModel dx="1046" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="sILno954XP53TJ1m5CQq" name="用例图">
+    <mxGraphModel dx="1021" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="B6cuqKp58WuIZXkB7Ipw-0"/>
         <mxCell id="B6cuqKp58WuIZXkB7Ipw-1" parent="B6cuqKp58WuIZXkB7Ipw-0"/>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="B6cuqKp58WuIZXkB7Ipw-1" source="B6cuqKp58WuIZXkB7Ipw-12" target="B6cuqKp58WuIZXkB7Ipw-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-24" value="申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="B6cuqKp58WuIZXkB7Ipw-23">
+          <mxGeometry x="-0.005" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-12" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="B6cuqKp58WuIZXkB7Ipw-1">
+          <mxGeometry x="70" y="200" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-21" value="企业认证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="B6cuqKp58WuIZXkB7Ipw-1">
+          <mxGeometry x="180" y="195" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="B6cuqKp58WuIZXkB7Ipw-1" source="B6cuqKp58WuIZXkB7Ipw-25" target="B6cuqKp58WuIZXkB7Ipw-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-30" value="审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="B6cuqKp58WuIZXkB7Ipw-29">
+          <mxGeometry x="0.0579" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-25" value="客服" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="B6cuqKp58WuIZXkB7Ipw-1">
+          <mxGeometry x="420" y="200" width="30" height="60" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
