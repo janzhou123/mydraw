@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T00:24:31.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Wj9J3JJE5dLqoO012ATg" version="12.4.3" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-18T00:25:26.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0oRFxcXOtJvz-RMnjbn9" version="12.4.3" type="github" pages="7">
   <diagram id="7Ek2xZR4nPy_wMrCUxnE" name="Page-1">
     <mxGraphModel dx="1046" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -477,6 +477,14 @@
       <root>
         <mxCell id="yeYckrKqF_0XWE--L3kt-0"/>
         <mxCell id="yeYckrKqF_0XWE--L3kt-1" parent="yeYckrKqF_0XWE--L3kt-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sILno954XP53TJ1m5CQq" name="新流程及细节">
+    <mxGraphModel dx="1046" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-0"/>
+        <mxCell id="B6cuqKp58WuIZXkB7Ipw-1" parent="B6cuqKp58WuIZXkB7Ipw-0"/>
       </root>
     </mxGraphModel>
   </diagram>
