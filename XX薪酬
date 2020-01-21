@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-01-21T03:26:29.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="bTqMK1YDdQFPZcyWTAvE" version="12.5.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-21T03:28:46.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="nM295FxlOkuaw4pURl_K" version="12.5.5" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+        <mxCell id="JG7qK9bYCaJblJtV-Rf7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Cr1Zi85QLQugOmjghb5-0" target="JG7qK9bYCaJblJtV-Rf7-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="_Cr1Zi85QLQugOmjghb5-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="217.5" width="100" height="472.5" as="geometry"/>
         </mxCell>
@@ -13,8 +16,8 @@
         <mxCell id="ejGGP9B2Ilcy2mgGPILj-5" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="68" y="167.5" width="620" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="TM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ejGGP9B2Ilcy2mgGPILj-5" vertex="1">
-          <mxGeometry x="-28" width="70" height="30" as="geometry"/>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="工资组合项目" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ejGGP9B2Ilcy2mgGPILj-5" vertex="1">
+          <mxGeometry x="-40" width="82" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="ejGGP9B2Ilcy2mgGPILj-0" value="底薪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ejGGP9B2Ilcy2mgGPILj-5">
           <mxGeometry x="110" width="70" height="30" as="geometry"/>
@@ -186,11 +189,14 @@
         <mxCell id="BznOoWoCvCRrYVRWtO43-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ejGGP9B2Ilcy2mgGPILj-19" target="BznOoWoCvCRrYVRWtO43-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="JG7qK9bYCaJblJtV-Rf7-10" value="工资" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="730" width="82" height="30" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Iv_X3KcSSOGkDlbzQszO" name="TM业绩提成">
-    <mxGraphModel dx="921" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gj70oKUnWzU0-CmmVS7T-0"/>
         <mxCell id="gj70oKUnWzU0-CmmVS7T-1" parent="gj70oKUnWzU0-CmmVS7T-0"/>
