@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:15:19.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="dSFT8JtzjEI6U2e5r4YW" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-21T02:16:10.462Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="T11OmmQ0EhyBpGEX6PRw" version="12.5.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,9 +253,6 @@
         <mxCell id="pmOpilxMtj_i_V9pIOjx-11" value="B类业绩提成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
           <mxGeometry x="20" y="-745" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XcE7b-pys4bTIwtW4ar7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gj70oKUnWzU0-CmmVS7T-1" source="XcE7b-pys4bTIwtW4ar7-0" target="XcE7b-pys4bTIwtW4ar7-3">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="XcE7b-pys4bTIwtW4ar7-0" value="A类提点系数流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
           <mxGeometry x="600" y="-750" width="90" height="40" as="geometry"/>
         </mxCell>
@@ -276,6 +273,9 @@
         </mxCell>
         <mxCell id="XcE7b-pys4bTIwtW4ar7-7" value="A类业绩提成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
           <mxGeometry x="23.5" y="-645" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XcE7b-pys4bTIwtW4ar7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gj70oKUnWzU0-CmmVS7T-1" source="XcE7b-pys4bTIwtW4ar7-0" target="XcE7b-pys4bTIwtW4ar7-3">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
