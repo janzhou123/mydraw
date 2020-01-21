@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:14:30.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Y9F4srC12e6-4WBYqihm" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-21T02:15:03.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="t8kI2M32TLMFmraWZq-1" version="12.5.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tPCprc7fBFtpmIfO3p9z" name="A类提点系数流程">
-    <mxGraphModel dx="1335" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SGKJDnu5Ub8qaGlvO2V1-0"/>
         <mxCell id="SGKJDnu5Ub8qaGlvO2V1-1" parent="SGKJDnu5Ub8qaGlvO2V1-0"/>
@@ -369,6 +369,9 @@
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑。&lt;br&gt;一共分为6级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
           <mxGeometry x="50" y="30" width="370" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="YzBUhasZjlC_hHyXATKV-0" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;A类全额业绩&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="290" y="80" width="110" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
