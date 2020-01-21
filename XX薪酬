@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T03:46:12.370Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="0T_Kg34CGW_B0q4zAAIA" version="12.5.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-21T03:47:54.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="UQsnxdc_zOLUD9w1Dsoc" version="12.5.5" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="1113" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,26 +50,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejGGP9B2Ilcy2mgGPILj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ejGGP9B2Ilcy2mgGPILj-23" target="ejGGP9B2Ilcy2mgGPILj-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="298" y="348"/>
-              <mxPoint x="182" y="349"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ejGGP9B2Ilcy2mgGPILj-30" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ejGGP9B2Ilcy2mgGPILj-29">
-          <mxGeometry x="0.3651" y="1" relative="1" as="geometry">
-            <mxPoint x="75.62" y="-0.96" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ejGGP9B2Ilcy2mgGPILj-23" value="司龄大于7个月，与否" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="258" y="273.5" width="80" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="ejGGP9B2Ilcy2mgGPILj-25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ejGGP9B2Ilcy2mgGPILj-2" target="ejGGP9B2Ilcy2mgGPILj-23">
+        <mxCell id="ejGGP9B2Ilcy2mgGPILj-25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ejGGP9B2Ilcy2mgGPILj-2" target="BznOoWoCvCRrYVRWtO43-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="288" y="277.5" as="sourcePoint"/>
-            <mxPoint x="338" y="227.5" as="targetPoint"/>
+            <mxPoint x="298" y="273.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ejGGP9B2Ilcy2mgGPILj-28" value="0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -164,13 +148,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="BznOoWoCvCRrYVRWtO43-0" value="&lt;span style=&quot;font-size: 12px ; white-space: normal&quot;&gt;新人津贴&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="290" width="70" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="BznOoWoCvCRrYVRWtO43-1" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ejGGP9B2Ilcy2mgGPILj-23" target="BznOoWoCvCRrYVRWtO43-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="238.39080459770116" y="297.79310344827593" as="sourcePoint"/>
-            <mxPoint x="128.0000000000001" y="307.5" as="targetPoint"/>
-          </mxGeometry>
+          <mxGeometry x="265" y="290" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="BznOoWoCvCRrYVRWtO43-3" value="新人津贴" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="290" width="70" height="30" as="geometry"/>
