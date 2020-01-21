@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T03:59:08.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Hv9CJsWOAp-gACTV-qG5" version="12.5.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-21T03:59:22.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="48WL-BaKoP32RpmB9aQm" version="12.5.5" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="1335" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wSbmZTzYCMzqhu1nN-X1" name="KPI考核">
-    <mxGraphModel dx="1113" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hr9RX0bUvJ5z6m0m0UiF-0"/>
         <mxCell id="hr9RX0bUvJ5z6m0m0UiF-1" parent="hr9RX0bUvJ5z6m0m0UiF-0"/>
@@ -328,6 +328,9 @@
         </mxCell>
         <mxCell id="aZQH815P2lvWVYm_b2bH-3" value="颜色说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="hr9RX0bUvJ5z6m0m0UiF-1">
           <mxGeometry x="80" y="33" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="oH7l7ckO5fFtnBP9NPcY-0" value="KPI考核" style="text;html=1;fontSize=26;" vertex="1" parent="hr9RX0bUvJ5z6m0m0UiF-1">
+          <mxGeometry x="630" y="40" width="120" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
