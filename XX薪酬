@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T03:14:08.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="jrLg_xV2IK4R-vs8SNHC" version="12.5.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-21T03:14:23.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="tMHzZsJ_UpY7VHho8shL" version="12.5.5" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="1113" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,6 +318,18 @@
       <root>
         <mxCell id="hr9RX0bUvJ5z6m0m0UiF-0"/>
         <mxCell id="hr9RX0bUvJ5z6m0m0UiF-1" parent="hr9RX0bUvJ5z6m0m0UiF-0"/>
+        <mxCell id="aZQH815P2lvWVYm_b2bH-0" value="&lt;div style=&quot;text-align: left&quot;&gt;外部需要计算获取的数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="hr9RX0bUvJ5z6m0m0UiF-1">
+          <mxGeometry x="68" y="60" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="aZQH815P2lvWVYm_b2bH-1" value="子流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="hr9RX0bUvJ5z6m0m0UiF-1">
+          <mxGeometry x="173" y="60" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="aZQH815P2lvWVYm_b2bH-2" value="组合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="hr9RX0bUvJ5z6m0m0UiF-1">
+          <mxGeometry x="283" y="60" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="aZQH815P2lvWVYm_b2bH-3" value="颜色说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="hr9RX0bUvJ5z6m0m0UiF-1">
+          <mxGeometry x="80" y="33" width="60" height="20" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -326,6 +338,18 @@
       <root>
         <mxCell id="Jg3UmO70AGH7IHxpjosC-0"/>
         <mxCell id="Jg3UmO70AGH7IHxpjosC-1" parent="Jg3UmO70AGH7IHxpjosC-0"/>
+        <mxCell id="NlqCI9w7QiMcVxg460oO-0" value="&lt;div style=&quot;text-align: left&quot;&gt;外部需要计算获取的数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Jg3UmO70AGH7IHxpjosC-1">
+          <mxGeometry x="68" y="60" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NlqCI9w7QiMcVxg460oO-1" value="子流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Jg3UmO70AGH7IHxpjosC-1">
+          <mxGeometry x="173" y="60" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NlqCI9w7QiMcVxg460oO-2" value="组合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Jg3UmO70AGH7IHxpjosC-1">
+          <mxGeometry x="283" y="60" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NlqCI9w7QiMcVxg460oO-3" value="颜色说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Jg3UmO70AGH7IHxpjosC-1">
+          <mxGeometry x="80" y="33" width="60" height="20" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
