@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T01:43:54.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="3kHNprrEn0kF1SurVA8D" version="12.5.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-21T01:45:45.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="F0dr8QBFlYSGvwzdhS-6" version="12.5.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-6" value="C类业绩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
           <mxGeometry x="530" y="70" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="dL4XgTG959zBFdzOShsg-0" value="提成=A类全额业绩*A类对应系数+B类全额业绩*B类对应系数+C类全额业绩*C类对应系数" style="text;html=1;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
+          <mxGeometry x="40" y="10" width="490" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
