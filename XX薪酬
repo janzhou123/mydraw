@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:11:32.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="n3rp2XmciEM7NiPTZ6IL" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-21T02:12:22.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="g9VTz8dFrsyWvYtBaufK" version="12.5.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,8 +367,8 @@
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-10" value="提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
           <mxGeometry x="60" y="120" width="100" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="60" y="50" width="360" height="20" as="geometry"/>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑。&lt;br&gt;一共分为6级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="55" y="475" width="370" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
