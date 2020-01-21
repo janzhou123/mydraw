@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T03:28:46.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="nM295FxlOkuaw4pURl_K" version="12.5.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-21T03:29:33.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="GjnDEi5tvhCU5HG152pj" version="12.5.5" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Iv_X3KcSSOGkDlbzQszO" name="TM业绩提成">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gj70oKUnWzU0-CmmVS7T-0"/>
         <mxCell id="gj70oKUnWzU0-CmmVS7T-1" parent="gj70oKUnWzU0-CmmVS7T-0"/>
@@ -403,6 +403,9 @@
       <root>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-0"/>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-1" parent="Sl5rvcecMh-WbqGZh4k8-0"/>
+        <mxCell id="3xwhmqI44ysOxG626fG8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="Sl5rvcecMh-WbqGZh4k8-1" source="Sl5rvcecMh-WbqGZh4k8-12" target="Sl5rvcecMh-WbqGZh4k8-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
           <mxGeometry x="50" y="200" width="120" height="240" as="geometry"/>
         </mxCell>
@@ -438,7 +441,7 @@
           <mxGeometry x="60" y="330" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-11" value="提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
-          <mxGeometry x="60" y="120" width="100" height="50" as="geometry"/>
+          <mxGeometry x="60" y="490" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Nr0YUXyjvCZTgwshVtjp-0" value="设置A类司龄目标完成率作为杠杆，完成A类司龄目标享受奖励提点，未完成A类司龄目标则享受基础提点。" style="text;html=1;fontSize=15;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
           <mxGeometry x="50" y="40" width="720" height="40" as="geometry"/>
