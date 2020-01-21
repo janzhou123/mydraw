@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:16:10.462Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="T11OmmQ0EhyBpGEX6PRw" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-21T02:21:29.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="wjJtGOwrdWzVepQN7Cf5" version="12.5.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,10 +326,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tPCprc7fBFtpmIfO3p9z" name="A类提点系数流程">
-    <mxGraphModel dx="1335" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SGKJDnu5Ub8qaGlvO2V1-0"/>
         <mxCell id="SGKJDnu5Ub8qaGlvO2V1-1" parent="SGKJDnu5Ub8qaGlvO2V1-0"/>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-0" target="CtdX_QwS3n7wbDo9rPbR-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
           <mxGeometry x="70" y="860" width="120" height="240" as="geometry"/>
         </mxCell>
@@ -365,13 +368,52 @@
           <mxGeometry x="80" y="990" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-10" value="提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="70" y="80" width="100" height="50" as="geometry"/>
+          <mxGeometry x="80" y="1140" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑。&lt;br&gt;一共分为6级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
           <mxGeometry x="50" y="30" width="370" height="30" as="geometry"/>
         </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="YzBUhasZjlC_hHyXATKV-0" target="lVhpzoZHmm28K2jGuoUG-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="YzBUhasZjlC_hHyXATKV-0" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;A类全额业绩&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
           <mxGeometry x="320" y="80" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-0" target="lVhpzoZHmm28K2jGuoUG-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-5" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="lVhpzoZHmm28K2jGuoUG-4">
+          <mxGeometry x="-0.003" y="-25" relative="1" as="geometry">
+            <mxPoint x="-25" y="-24" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-0" target="lVhpzoZHmm28K2jGuoUG-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-8" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="lVhpzoZHmm28K2jGuoUG-7">
+          <mxGeometry x="-0.3517" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-0" value="小于30000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="335" y="160" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-3" value="A1级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="520" y="180" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-6" target="lVhpzoZHmm28K2jGuoUG-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-11" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="lVhpzoZHmm28K2jGuoUG-10">
+          <mxGeometry x="-0.2801" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-6" value="大于等于30000&lt;br&gt;小于60000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="335" y="280" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="lVhpzoZHmm28K2jGuoUG-9" value="A2级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="520" y="300" width="90" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
