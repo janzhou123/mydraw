@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:02:20.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="KTnjX0zz9IuqZsxjqK47" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-21T02:03:22.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="_Ev6BmmztU7Ioi-KIv1j" version="12.5.5" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           <mxGeometry x="20" y="-1008" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-4" value="A类业绩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="540" y="-1008" width="70" height="30" as="geometry"/>
+          <mxGeometry x="610" y="-1008" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pmOpilxMtj_i_V9pIOjx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gj70oKUnWzU0-CmmVS7T-1" source="dc51aJUp-69InpXMaORv-5" target="pmOpilxMtj_i_V9pIOjx-4">
           <mxGeometry relative="1" as="geometry"/>
@@ -245,7 +245,7 @@
         <mxCell id="pmOpilxMtj_i_V9pIOjx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gj70oKUnWzU0-CmmVS7T-1" source="pmOpilxMtj_i_V9pIOjx-4" target="pmOpilxMtj_i_V9pIOjx-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="pmOpilxMtj_i_V9pIOjx-11" value="C类业绩提成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
+        <mxCell id="pmOpilxMtj_i_V9pIOjx-11" value="B类业绩提成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
           <mxGeometry x="20" y="-745" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
