@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-21T01:58:56.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="hGj2zCSKq7ANtLYuFgBY" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-21T02:00:21.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Q1OvAfEIYKgdwsq3QUUy" version="12.5.5" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
-    <mxGraphModel dx="763" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -157,7 +157,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Iv_X3KcSSOGkDlbzQszO" name="TM业绩提成">
-    <mxGraphModel dx="763" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gj70oKUnWzU0-CmmVS7T-0"/>
         <mxCell id="gj70oKUnWzU0-CmmVS7T-1" parent="gj70oKUnWzU0-CmmVS7T-0"/>
@@ -165,46 +165,58 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="135" y="215" width="190" height="60" as="geometry"/>
+          <mxGeometry x="135" y="-863" width="190" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="135" y="55" width="575" height="60" as="geometry"/>
+          <mxGeometry x="135" y="-1023" width="575" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-2" value="业绩提成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="20" y="70" width="70" height="30" as="geometry"/>
+          <mxGeometry x="20" y="-1008" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-4" value="A类业绩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="540" y="70" width="70" height="30" as="geometry"/>
+          <mxGeometry x="540" y="-1008" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-5" value="B类业绩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="400" y="70" width="70" height="30" as="geometry"/>
+          <mxGeometry x="400" y="-1008" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gj70oKUnWzU0-CmmVS7T-1" source="dc51aJUp-69InpXMaORv-6" target="pXjK5QqJgfuA8zzYp3SM-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="dc51aJUp-69InpXMaORv-6" value="C类业绩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="170" y="70" width="70" height="30" as="geometry"/>
+          <mxGeometry x="170" y="-1008" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="dL4XgTG959zBFdzOShsg-0" value="提成=A类全额业绩*A类对应系数+B类全额业绩*B类对应系数+C类全额业绩*C类对应系数" style="text;html=1;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="40" y="10" width="490" height="30" as="geometry"/>
+          <mxGeometry x="40" y="-1068" width="490" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gj70oKUnWzU0-CmmVS7T-1" source="pXjK5QqJgfuA8zzYp3SM-0" target="19fbkTLxZub5DyiFl6-1-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="pXjK5QqJgfuA8zzYp3SM-0" value="B/C类提点系数流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="160" y="150" width="90" height="40" as="geometry"/>
+          <mxGeometry x="160" y="-928" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-1" value="C类提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="245" y="230" width="75" height="30" as="geometry"/>
+          <mxGeometry x="245" y="-848" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-3" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;C类全额业绩&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="145" y="230" width="70" height="30" as="geometry"/>
+          <mxGeometry x="145" y="-848" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-4" value="乘以" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="210" y="235" width="40" height="20" as="geometry"/>
+          <mxGeometry x="210" y="-843" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="19fbkTLxZub5DyiFl6-1-6" value="C类业绩提成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
-          <mxGeometry x="20" y="230" width="80" height="30" as="geometry"/>
+          <mxGeometry x="20" y="-848" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pmOpilxMtj_i_V9pIOjx-0" value="&lt;div style=&quot;text-align: left&quot;&gt;外部需要计算获取的数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
+          <mxGeometry x="25" y="-1113" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pmOpilxMtj_i_V9pIOjx-1" value="子流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
+          <mxGeometry x="130" y="-1113" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pmOpilxMtj_i_V9pIOjx-2" value="组合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
+          <mxGeometry x="240" y="-1113" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pmOpilxMtj_i_V9pIOjx-3" value="颜色说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="gj70oKUnWzU0-CmmVS7T-1">
+          <mxGeometry x="37" y="-1140" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
