@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T03:59:32.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="5n64uqOL8Uc5rVABraQU" version="12.5.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-21T03:59:44.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="anU4AcXzUi6EggtAnEYp" version="12.5.5" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="1335" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MJhaFeIcaVcISOF2EaES" name="B/C类提点系数流程">
-    <mxGraphModel dx="1113" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-0"/>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-1" parent="Sl5rvcecMh-WbqGZh4k8-0"/>
@@ -463,6 +463,9 @@
         </mxCell>
         <mxCell id="Nr0YUXyjvCZTgwshVtjp-0" value="设置A类司龄目标完成率作为杠杆，完成A类司龄目标享受奖励提点，未完成A类司龄目标则享受基础提点。" style="text;html=1;fontSize=15;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
           <mxGeometry x="50" y="40" width="720" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XRXV3tFWiJrXIfGi4sSo-0" value="B/C类提点系数流程" style="text;html=1;fontSize=26;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
+          <mxGeometry x="560" y="80" width="250" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
