@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:10:30.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="LoZfd6Et-iKa44FsJNDd" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-21T02:11:32.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="n3rp2XmciEM7NiPTZ6IL" version="12.5.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,6 +321,54 @@
         </mxCell>
         <mxCell id="Sl5rvcecMh-WbqGZh4k8-11" value="提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
           <mxGeometry x="60" y="120" width="100" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tPCprc7fBFtpmIfO3p9z" name="A类提点系数流程">
+    <mxGraphModel dx="1335" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SGKJDnu5Ub8qaGlvO2V1-0"/>
+        <mxCell id="SGKJDnu5Ub8qaGlvO2V1-1" parent="SGKJDnu5Ub8qaGlvO2V1-0"/>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="50" y="200" width="120" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-2" target="CtdX_QwS3n7wbDo9rPbR-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;A类司龄目标&lt;/span&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="310" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-7" target="CtdX_QwS3n7wbDo9rPbR-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-4" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="CtdX_QwS3n7wbDo9rPbR-3">
+          <mxGeometry x="-0.2955" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-7" target="CtdX_QwS3n7wbDo9rPbR-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-6" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="CtdX_QwS3n7wbDo9rPbR-5">
+          <mxGeometry x="0.095" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-7" value="目标是否达成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="330" y="240" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-8" value="奖励提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="60" y="255" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-9" value="基础提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="60" y="330" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-10" value="提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="60" y="120" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="60" y="50" width="360" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
