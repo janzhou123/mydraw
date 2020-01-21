@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:27:38.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="KzTHLZ_AMUm6sTSvQhvk" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-21T02:29:08.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="FVVuWYWZ7GGkJhXcukYf" version="12.5.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="ejGGP9B2Ilcy2mgGPILj-19" value="KPI考核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ejGGP9B2Ilcy2mgGPILj-5">
           <mxGeometry x="510" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ejGGP9B2Ilcy2mgGPILj-21" value="1300" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ejGGP9B2Ilcy2mgGPILj-21" value="底薪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="247.5" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="ejGGP9B2Ilcy2mgGPILj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ejGGP9B2Ilcy2mgGPILj-0" target="ejGGP9B2Ilcy2mgGPILj-21">
