@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T02:51:31.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="xijqCb3krisT1POn2Q3s" version="12.5.5" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-21T02:52:31.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="HzIdCOKFxUh9_0u1wecw" version="12.5.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TM主图">
     <mxGraphModel dx="921" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
           <mxGeometry x="60" y="120" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="Nr0YUXyjvCZTgwshVtjp-0" value="设置A类司龄目标完成率作为杠杆，完成A类司龄目标享受奖励提点，未完成A类司龄目标则享受基础提点。" style="text;html=1;fontSize=15;" vertex="1" parent="Sl5rvcecMh-WbqGZh4k8-1">
-          <mxGeometry x="50" y="40" width="1010" height="40" as="geometry"/>
+          <mxGeometry x="50" y="40" width="720" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -334,25 +334,25 @@
         <mxCell id="SGKJDnu5Ub8qaGlvO2V1-0"/>
         <mxCell id="SGKJDnu5Ub8qaGlvO2V1-1" parent="SGKJDnu5Ub8qaGlvO2V1-0"/>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="300" y="860" width="330" height="80" as="geometry"/>
+          <mxGeometry x="300" y="869" width="330" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-36" target="lVhpzoZHmm28K2jGuoUG-37">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="500" y="160" width="125" height="670" as="geometry"/>
+          <mxGeometry x="500" y="169" width="125" height="670" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-0" target="CtdX_QwS3n7wbDo9rPbR-10">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="60" y="960" width="120" height="240" as="geometry"/>
+          <mxGeometry x="60" y="969" width="120" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-2" target="CtdX_QwS3n7wbDo9rPbR-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;A类司龄目标&lt;/span&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="320" y="870" width="120" height="60" as="geometry"/>
+          <mxGeometry x="320" y="879" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="CtdX_QwS3n7wbDo9rPbR-7" target="CtdX_QwS3n7wbDo9rPbR-8">
           <mxGeometry relative="1" as="geometry"/>
@@ -371,25 +371,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-7" value="目标是否达成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="340" y="1000" width="80" height="80" as="geometry"/>
+          <mxGeometry x="340" y="1009" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-8" value="奖励提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="70" y="1015" width="100" height="50" as="geometry"/>
+          <mxGeometry x="70" y="1024" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-9" value="基础提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="70" y="1090" width="100" height="50" as="geometry"/>
+          <mxGeometry x="70" y="1099" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="CtdX_QwS3n7wbDo9rPbR-10" value="提点系数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="70" y="1240" width="100" height="50" as="geometry"/>
+          <mxGeometry x="70" y="1249" width="100" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑。&lt;br&gt;一共分为6级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="50" y="30" width="370" height="30" as="geometry"/>
+        <mxCell id="CtdX_QwS3n7wbDo9rPbR-11" value="A类业绩提点系数是在 B/C类业绩提点系数上面 增加一个分级逻辑。&lt;br style=&quot;font-size: 15px;&quot;&gt;一共分为6级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="50" width="460" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="YzBUhasZjlC_hHyXATKV-0" target="lVhpzoZHmm28K2jGuoUG-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YzBUhasZjlC_hHyXATKV-0" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;A类全额业绩&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="320" y="80" width="110" height="50" as="geometry"/>
+          <mxGeometry x="320" y="89" width="110" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-0" target="lVhpzoZHmm28K2jGuoUG-3">
           <mxGeometry relative="1" as="geometry"/>
@@ -408,10 +408,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-0" value="小于30000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="335" y="160" width="80" height="80" as="geometry"/>
+          <mxGeometry x="335" y="169" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-3" value="A1级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="520" y="180" width="90" height="40" as="geometry"/>
+          <mxGeometry x="520" y="189" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-6" target="lVhpzoZHmm28K2jGuoUG-9">
           <mxGeometry relative="1" as="geometry"/>
@@ -430,10 +430,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-6" value="大于等于30000&lt;br&gt;小于60000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="335" y="280" width="80" height="80" as="geometry"/>
+          <mxGeometry x="335" y="289" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-9" value="A2级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="520" y="300" width="90" height="40" as="geometry"/>
+          <mxGeometry x="520" y="309" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-14" target="lVhpzoZHmm28K2jGuoUG-15">
           <mxGeometry relative="1" as="geometry"/>
@@ -452,10 +452,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-14" value="大于等于60000&lt;br&gt;小于90000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="335" y="390" width="80" height="80" as="geometry"/>
+          <mxGeometry x="335" y="399" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-15" value="A3级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="520" y="410" width="90" height="40" as="geometry"/>
+          <mxGeometry x="520" y="419" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-20" target="lVhpzoZHmm28K2jGuoUG-21">
           <mxGeometry relative="1" as="geometry"/>
@@ -474,10 +474,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-20" value="大于等于90000&lt;br&gt;小于120000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="335" y="510" width="80" height="80" as="geometry"/>
+          <mxGeometry x="335" y="519" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-21" value="A4级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="520" y="530" width="90" height="40" as="geometry"/>
+          <mxGeometry x="520" y="539" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-26" target="lVhpzoZHmm28K2jGuoUG-27">
           <mxGeometry relative="1" as="geometry"/>
@@ -496,10 +496,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-26" value="大于等于120000&lt;br&gt;小于150000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="335" y="630" width="80" height="80" as="geometry"/>
+          <mxGeometry x="335" y="639" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-27" value="A5级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="520" y="650" width="90" height="40" as="geometry"/>
+          <mxGeometry x="520" y="659" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SGKJDnu5Ub8qaGlvO2V1-1" source="lVhpzoZHmm28K2jGuoUG-32" target="lVhpzoZHmm28K2jGuoUG-33">
           <mxGeometry relative="1" as="geometry"/>
@@ -510,13 +510,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-32" value="大于等于150000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="335" y="740" width="80" height="80" as="geometry"/>
+          <mxGeometry x="335" y="749" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-33" value="A6级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="520" y="760" width="90" height="40" as="geometry"/>
+          <mxGeometry x="520" y="769" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lVhpzoZHmm28K2jGuoUG-37" value="A类业绩等级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
-          <mxGeometry x="517.5" y="880" width="90" height="40" as="geometry"/>
+          <mxGeometry x="517.5" y="889" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="fwLJz4guwuW-vECmInFh-0" value="设置A类司龄目标完成率作为杠杆，完成A类司龄目标享受奖励提点，未完成A类司龄目标则享受基础提点。" style="text;html=1;fontSize=15;" vertex="1" parent="SGKJDnu5Ub8qaGlvO2V1-1">
+          <mxGeometry x="50" y="40" width="720" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
