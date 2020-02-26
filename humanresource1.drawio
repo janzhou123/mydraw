@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T06:41:51.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="4rsTZDeHMOqzW1ajxiBp" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T06:43:12.871Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="eZlmr8Dp40dwirc6M60s" version="12.7.6" type="github">
   <diagram id="A04N61mchk_1eaoA9pmB" name="Page-1">
     <mxGraphModel dx="950" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="380" />
-              <mxPoint x="810" y="620" />
+              <mxPoint x="810" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,17 +173,17 @@
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-83" target="KUp_mzP3VPPAdqyAgSxF-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KUp_mzP3VPPAdqyAgSxF-83" value="试用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="530" width="60" height="20" as="geometry" />
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-83" value="试用&lt;br&gt;实习" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-85" target="KUp_mzP3VPPAdqyAgSxF-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-85" value="转正" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="570" width="60" height="20" as="geometry" />
+          <mxGeometry x="730" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-87" value="调配" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="610" width="60" height="20" as="geometry" />
+          <mxGeometry x="730" y="630" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
