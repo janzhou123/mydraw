@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T07:48:48.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="Vo14ALZRPtvOPGEmps-s" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T08:16:19.160Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="bTxOD0E8P_Q1I5l6XwZe" version="12.7.6" type="github">
   <diagram id="A04N61mchk_1eaoA9pmB" name="Page-1">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -99,6 +99,9 @@
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-50" value="任职资格" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="340" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-38" target="KUp_mzP3VPPAdqyAgSxF-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-38" value="机构调整" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="260" width="60" height="20" as="geometry" />
         </mxCell>
@@ -111,8 +114,8 @@
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-55" value="汇报关系" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="410" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KUp_mzP3VPPAdqyAgSxF-59" value="机构图" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="340" width="60" height="20" as="geometry" />
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-59" value="组织结构图" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="340" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-61" value="组织结构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="230" width="60" height="20" as="geometry" />
@@ -209,23 +212,11 @@
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-97" value="人员档案" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1020" y="610" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KUp_mzP3VPPAdqyAgSxF-98" value="合同/协议" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="640" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-99" value="虚拟组织" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-100" value="假勤" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="940" y="700" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KUp_mzP3VPPAdqyAgSxF-101" value="职务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="670" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KUp_mzP3VPPAdqyAgSxF-102" value="职位" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="700" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KUp_mzP3VPPAdqyAgSxF-103" value="职级" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="730" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-104" value="福利" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="940" y="730" width="60" height="20" as="geometry" />
@@ -234,10 +225,10 @@
           <mxGeometry x="940" y="760" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-106" value="人员变动历史" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="760" width="60" height="30" as="geometry" />
+          <mxGeometry x="1020" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-107" value="机构调整历史" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="800" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="810" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-109" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;rounded=1;shadow=0;glass=0;comic=0;opacity=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="460" width="150" height="150" as="geometry" />
