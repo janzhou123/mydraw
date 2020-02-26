@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T07:40:20.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="OxPhm_vtWHNHWyYMCJgf" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T07:48:48.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="Vo14ALZRPtvOPGEmps-s" version="12.7.6" type="github">
   <diagram id="A04N61mchk_1eaoA9pmB" name="Page-1">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -253,6 +253,9 @@
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-113" value="组织关系" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-114" value="岗位说明" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
