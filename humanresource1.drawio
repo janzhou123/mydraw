@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-26T09:36:28.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="N8vu9dRw7lCre0GcUf3c" version="12.7.6" type="github" pages="2">
-  <diagram id="A04N61mchk_1eaoA9pmB" name="Page-1">
-    <mxGraphModel dx="1148" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+<mxfile host="www.draw.io" modified="2020-02-26T10:04:08.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="JLPlJMVR8pfFkIjsQYfM" version="12.7.6" type="github" pages="7">
+  <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
+    <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,11 +251,51 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Qr8JCM6fzmoq55rnx6MN" name="Page-2">
-    <mxGraphModel dx="1377" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+  <diagram id="Qr8JCM6fzmoq55rnx6MN" name="入职流程">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-0" />
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-1" parent="g2mmZ4rIqAdcgixB1L-E-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TUUhl74xc_qrMOVx7P8X" name="转正流程">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="W-pfsB-4qoveeUSPXoXc-0" />
+        <mxCell id="W-pfsB-4qoveeUSPXoXc-1" parent="W-pfsB-4qoveeUSPXoXc-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Mvp22J4Bc4uQw07znNL_" name="调动流程">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="yclD11iEoVv_obXM92in-0" />
+        <mxCell id="yclD11iEoVv_obXM92in-1" parent="yclD11iEoVv_obXM92in-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_n-CSzgmd-0lbspUZBG0" name="离职流程">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="qBLugyMcYC4mCHdmNc9R-0" />
+        <mxCell id="qBLugyMcYC4mCHdmNc9R-1" parent="qBLugyMcYC4mCHdmNc9R-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g0iryphYsIntNLZveLG6" name="退休流程">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="XnaUQL9vNQig_e2isBbu-0" />
+        <mxCell id="XnaUQL9vNQig_e2isBbu-1" parent="XnaUQL9vNQig_e2isBbu-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o4FK7LvY5f_hO4uvvhnm" name="请假流程">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="QjB2NuqEUvVJ5lk2VC4q-0" />
+        <mxCell id="QjB2NuqEUvVJ5lk2VC4q-1" parent="QjB2NuqEUvVJ5lk2VC4q-0" />
       </root>
     </mxGraphModel>
   </diagram>
