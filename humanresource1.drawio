@@ -1,14 +1,14 @@
-<mxfile host="www.draw.io" modified="2020-02-26T06:56:36.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="e3RxGK7EpsSahbJX4Jus" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T06:57:44.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="HqhXoEE9fBruAfiGXVLm" version="12.7.6" type="github">
   <diagram id="A04N61mchk_1eaoA9pmB" name="Page-1">
     <mxGraphModel dx="950" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-70" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="300" height="230" as="geometry" />
+          <mxGeometry x="730" y="460" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-62" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="370" y="460" width="300" height="220" as="geometry" />
+          <mxGeometry x="370" y="460" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-75" target="KUp_mzP3VPPAdqyAgSxF-77">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="427.5" y="590" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-71" value="人员管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="460" width="60" height="20" as="geometry" />
+          <mxGeometry x="740" y="460" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-73" value="人才库" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="545" y="490" width="60" height="20" as="geometry" />
@@ -159,7 +159,12 @@
           <mxGeometry x="545" y="570" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-79" target="KUp_mzP3VPPAdqyAgSxF-81">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="630" />
+              <mxPoint x="710" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-79" value="员工录用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="545" y="620" width="60" height="20" as="geometry" />
@@ -168,64 +173,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-81" value="入职" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="490" width="60" height="20" as="geometry" />
+          <mxGeometry x="770" y="490" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-83" target="KUp_mzP3VPPAdqyAgSxF-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-83" value="试用&lt;br&gt;实习" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="770" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-85" target="KUp_mzP3VPPAdqyAgSxF-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-85" value="转正" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="580" width="60" height="20" as="geometry" />
+          <mxGeometry x="770" y="580" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-87" target="KUp_mzP3VPPAdqyAgSxF-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-87" value="调配" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="620" width="60" height="20" as="geometry" />
+          <mxGeometry x="770" y="620" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-92" value="离职" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="660" width="60" height="20" as="geometry" />
+          <mxGeometry x="770" y="660" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-94" value="培训" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="490" width="60" height="20" as="geometry" />
+          <mxGeometry x="860" y="490" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-95" value="考核" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="520" width="60" height="20" as="geometry" />
+          <mxGeometry x="860" y="520" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-96" value="晋升" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="550" width="60" height="20" as="geometry" />
+          <mxGeometry x="860" y="550" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-97" value="人员档案" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="490" width="60" height="20" as="geometry" />
+          <mxGeometry x="940" y="490" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-98" value="合同/协议" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="520" width="60" height="20" as="geometry" />
+          <mxGeometry x="940" y="520" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-99" value="虚拟组织" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-100" value="假勤" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="580" width="60" height="20" as="geometry" />
+          <mxGeometry x="860" y="580" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-101" value="职务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="550" width="60" height="20" as="geometry" />
+          <mxGeometry x="940" y="550" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-102" value="职位" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="580" width="60" height="20" as="geometry" />
+          <mxGeometry x="940" y="580" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-103" value="职级" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="610" width="60" height="20" as="geometry" />
+          <mxGeometry x="940" y="610" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-104" value="福利" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="610" width="60" height="20" as="geometry" />
+          <mxGeometry x="860" y="610" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-105" value="自助服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="640" width="60" height="20" as="geometry" />
+          <mxGeometry x="860" y="640" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
