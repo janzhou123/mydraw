@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T06:17:21.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="30HfspCOftZI1qnPw-l9" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T06:24:41.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="5H-HhRlVraufo5ijxCrd" version="12.7.6" type="github">
   <diagram id="A04N61mchk_1eaoA9pmB" name="Page-1">
     <mxGraphModel dx="786" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -40,6 +40,11 @@
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-42" value="编制管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-53" target="KUp_mzP3VPPAdqyAgSxF-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587.5" y="380" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-53" value="岗位空缺" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="635" y="370" width="60" height="20" as="geometry" />
@@ -91,6 +96,27 @@
         </mxCell>
         <mxCell id="KUp_mzP3VPPAdqyAgSxF-61" value="组织结构设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-62" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-63" value="招聘管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-64" target="KUp_mzP3VPPAdqyAgSxF-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-64" value="招聘需求" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="490" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KUp_mzP3VPPAdqyAgSxF-66" target="KUp_mzP3VPPAdqyAgSxF-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-66" value="招聘计划" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUp_mzP3VPPAdqyAgSxF-68" value="招聘网站&lt;br&gt;公众号&lt;br&gt;其他渠道" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="590" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
