@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T01:35:53.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="OVjYCdecsaviVO9CMPkW" version="12.7.6" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-02-27T01:37:05.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="kKAbD_a6mlTKKyGqcXzl" version="12.7.6" type="github" pages="8">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -334,17 +334,23 @@
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xuwbkzkpPA8qDGcXP7-Q-12" source="xuwbkzkpPA8qDGcXP7-Q-35" target="xuwbkzkpPA8qDGcXP7-Q-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-35" value="培训" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-35" value="转正" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
           <mxGeometry x="30" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xuwbkzkpPA8qDGcXP7-Q-12" source="xuwbkzkpPA8qDGcXP7-Q-37" target="xuwbkzkpPA8qDGcXP7-Q-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-37" value="考核" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-37" value="培训" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
           <mxGeometry x="30" y="390" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-39" value="晋升" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
+        <mxCell id="qV2C-DMrwURC45dDZEwM-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xuwbkzkpPA8qDGcXP7-Q-12" source="xuwbkzkpPA8qDGcXP7-Q-39" target="qV2C-DMrwURC45dDZEwM-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-39" value="考核" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
           <mxGeometry x="30" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qV2C-DMrwURC45dDZEwM-0" value="晋升" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-12">
+          <mxGeometry x="30" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xuwbkzkpPA8qDGcXP7-Q-2" source="xuwbkzkpPA8qDGcXP7-Q-6" target="xuwbkzkpPA8qDGcXP7-Q-7">
           <mxGeometry relative="1" as="geometry" />
