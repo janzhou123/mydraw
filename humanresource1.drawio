@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T01:23:01.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="aCt5f2cGkVC4X8flKqil" version="12.7.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-02-27T01:23:34.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="sTKsSgGjP2By8ku_Zn2O" version="12.7.6" type="github" pages="8">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -251,8 +251,16 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="NsK83HDfCeO16zCUjQZI" name="大图">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-0" />
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-1" parent="xuwbkzkpPA8qDGcXP7-Q-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="Qr8JCM6fzmoq55rnx6MN" name="入职流程">
-    <mxGraphModel dx="813" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-0" />
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-1" parent="g2mmZ4rIqAdcgixB1L-E-0" />
