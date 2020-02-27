@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T00:44:13.583Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="gYRUWvFHyWTmXAFUQcLY" version="12.7.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-02-27T01:15:27.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="2TWv-VyFuEuBodtvOqdf" version="12.7.6" type="github" pages="7">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -345,6 +345,24 @@
         </mxCell>
         <mxCell id="bKSfXtuM4BvaifSCUEyC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bKSfXtuM4BvaifSCUEyC-0" source="bKSfXtuM4BvaifSCUEyC-26" target="bKSfXtuM4BvaifSCUEyC-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKSfXtuM4BvaifSCUEyC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="g2mmZ4rIqAdcgixB1L-E-1" source="bKSfXtuM4BvaifSCUEyC-29" target="bKSfXtuM4BvaifSCUEyC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKSfXtuM4BvaifSCUEyC-29" value="&lt;div&gt;1、已确定到岗时间；&lt;/div&gt;&lt;div&gt;2、已确定电脑情况；&lt;/div&gt;&lt;div&gt;3、新员工邮箱地址确认（收预入职通知）；&lt;/div&gt;&lt;div&gt;4、系统生成工号和邮箱地址。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;opacity=40;" vertex="1" parent="g2mmZ4rIqAdcgixB1L-E-1">
+          <mxGeometry x="450" y="115" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xumcKRZ9tHGHznqSEK2y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="g2mmZ4rIqAdcgixB1L-E-1" source="xumcKRZ9tHGHznqSEK2y-0" target="bKSfXtuM4BvaifSCUEyC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xumcKRZ9tHGHznqSEK2y-0" value="&lt;div&gt;1、生成预入职链接；&lt;/div&gt;&lt;div&gt;2、附入职须知；&lt;/div&gt;&lt;div&gt;3、自动发送至新员工个人邮箱。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;opacity=40;" vertex="1" parent="g2mmZ4rIqAdcgixB1L-E-1">
+          <mxGeometry x="450" y="200" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xumcKRZ9tHGHznqSEK2y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="g2mmZ4rIqAdcgixB1L-E-1" source="xumcKRZ9tHGHznqSEK2y-2" target="bKSfXtuM4BvaifSCUEyC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xumcKRZ9tHGHznqSEK2y-2" value="&lt;div&gt;1、职位申请书信息；&lt;/div&gt;&lt;div&gt;2、寸照电子版（可提前批量导出发企业管理部制作工牌)。&lt;/div&gt;&lt;div&gt;3、学历证书；&lt;/div&gt;&lt;div&gt;4、身份证正反面；&lt;/div&gt;&lt;div&gt;5、离职证明；&lt;/div&gt;&lt;div&gt;6、职业资格证书。&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;opacity=40;" vertex="1" parent="g2mmZ4rIqAdcgixB1L-E-1">
+          <mxGeometry x="450" y="280" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
