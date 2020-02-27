@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T01:26:50.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="EXkKo79DdrvYs5ziygKw" version="12.7.6" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-02-27T01:27:23.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="Qjb2zg5ET6a2aLpinSYm" version="12.7.6" type="github" pages="8">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -274,8 +274,14 @@
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-7" value="机构设置" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-4">
           <mxGeometry x="20" y="50" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xuwbkzkpPA8qDGcXP7-Q-4" source="xuwbkzkpPA8qDGcXP7-Q-8" target="xuwbkzkpPA8qDGcXP7-Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-8" value="机构调整" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-4">
           <mxGeometry x="20" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-10" value="编制计划" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-4">
+          <mxGeometry x="20" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-5" value="候选人/新员工" style="swimlane;html=1;startSize=20;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-2">
           <mxGeometry x="250" y="20" width="120" height="510" as="geometry" />
