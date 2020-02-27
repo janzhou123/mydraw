@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T02:02:52.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="_ZlyI8Y0MVYk-mET2QKg" version="12.7.6" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-27T02:14:57.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="DtjINcsNcrThUIgEw9vb" version="12.7.6" type="github" pages="9">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NsK83HDfCeO16zCUjQZI" name="大图">
-    <mxGraphModel dx="813" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-0" />
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-1" parent="xuwbkzkpPA8qDGcXP7-Q-0" />
@@ -377,6 +377,12 @@
         </mxCell>
         <mxCell id="se_WgI4t6yVp4tUY89V1-0" value="1、电话联系候选人，确定面试时间和地点。&lt;br&gt;2、发送提醒短信，提醒时间和地点。&lt;br&gt;3、发送提醒邮件，提醒时间和地点。。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-1">
           <mxGeometry x="810" y="220" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="se_WgI4t6yVp4tUY89V1-1" value="1、电话通知候选人录用结果。&lt;br&gt;2、确定入职时间，告知入职所需上报资料。&lt;br&gt;3、提醒候选人线上上报入职资料。&lt;br&gt;4、发送提醒短信/邮件。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-1">
+          <mxGeometry x="810" y="290" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="se_WgI4t6yVp4tUY89V1-3" value="1、签署劳动合同，合同进入档案管理。&lt;br&gt;2、入职资料进入档案管理。&lt;br&gt;3、档案管理预警将要到期合同，提醒续签合同操作。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-1">
+          <mxGeometry x="810" y="360" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
