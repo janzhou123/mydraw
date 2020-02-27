@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T01:22:46.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="yf0Q6G3Oteoy6xuW8Z4o" version="12.7.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-02-27T01:23:01.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="aCt5f2cGkVC4X8flKqil" version="12.7.6" type="github" pages="7">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
       <root>
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-0" />
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-1" parent="g2mmZ4rIqAdcgixB1L-E-0" />
-        <mxCell id="bKSfXtuM4BvaifSCUEyC-0" value="入职流程" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;opacity=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="g2mmZ4rIqAdcgixB1L-E-1">
+        <mxCell id="bKSfXtuM4BvaifSCUEyC-0" value="入职流程" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="g2mmZ4rIqAdcgixB1L-E-1">
           <mxGeometry x="180" y="80" width="260" height="680" as="geometry" />
         </mxCell>
         <mxCell id="bKSfXtuM4BvaifSCUEyC-1" value="人力资源部" style="swimlane;html=1;startSize=20;" vertex="1" parent="bKSfXtuM4BvaifSCUEyC-0">
