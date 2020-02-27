@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T06:28:52.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="mNc3uhlO9DSHmoCXiJib" version="12.7.6" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-27T06:30:21.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="QlIZS9p1IXvAmPaNFwEl" version="12.7.6" type="github" pages="9">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="1126" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
       <root>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-0" />
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-1" parent="xuwbkzkpPA8qDGcXP7-Q-0" />
-        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-2" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-1">
+        <mxCell id="xuwbkzkpPA8qDGcXP7-Q-2" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-1">
           <mxGeometry x="280" y="90" width="540" height="620" as="geometry" />
         </mxCell>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-3" value="集团/公司" style="swimlane;html=1;startSize=20;" vertex="1" parent="xuwbkzkpPA8qDGcXP7-Q-2">
@@ -513,11 +513,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TUUhl74xc_qrMOVx7P8X" name="转正流程">
-    <mxGraphModel dx="932" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="W-pfsB-4qoveeUSPXoXc-0" />
         <mxCell id="W-pfsB-4qoveeUSPXoXc-1" parent="W-pfsB-4qoveeUSPXoXc-0" />
-        <mxCell id="rFx9XTAFAl2p3cJKQPVP-0" value="转正" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;" vertex="1" parent="W-pfsB-4qoveeUSPXoXc-1">
+        <mxCell id="rFx9XTAFAl2p3cJKQPVP-0" value="转正" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="W-pfsB-4qoveeUSPXoXc-1">
           <mxGeometry x="330" y="200" width="535" height="480" as="geometry" />
         </mxCell>
         <mxCell id="rFx9XTAFAl2p3cJKQPVP-1" value="" style="swimlane;html=1;startSize=20;" vertex="1" parent="rFx9XTAFAl2p3cJKQPVP-0">
@@ -609,7 +609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mvp22J4Bc4uQw07znNL_" name="调动流程">
-    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="yclD11iEoVv_obXM92in-0" />
         <mxCell id="yclD11iEoVv_obXM92in-1" parent="yclD11iEoVv_obXM92in-0" />
