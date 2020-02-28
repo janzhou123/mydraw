@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-27T06:30:21.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="QlIZS9p1IXvAmPaNFwEl" version="12.7.6" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-28T00:53:02.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="2gQz_raeAjo7e1SbYjSK" version="12.7.6" type="github" pages="9">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
-    <mxGraphModel dx="1126" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NsK83HDfCeO16zCUjQZI" name="大图">
-    <mxGraphModel dx="1126" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-0" />
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-1" parent="xuwbkzkpPA8qDGcXP7-Q-0" />
@@ -391,7 +391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qr8JCM6fzmoq55rnx6MN" name="入职流程">
-    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-0" />
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-1" parent="g2mmZ4rIqAdcgixB1L-E-0" />
@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TUUhl74xc_qrMOVx7P8X" name="转正流程">
-    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="W-pfsB-4qoveeUSPXoXc-0" />
         <mxCell id="W-pfsB-4qoveeUSPXoXc-1" parent="W-pfsB-4qoveeUSPXoXc-0" />
@@ -605,11 +605,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NZdKXHqh9PsPvCWq-4SH-0" value="1、转正答辩是否必须，形式如何？&lt;br&gt;2、转正提醒的形式，范围？" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;rounded=1;shadow=0;glass=0;comic=0;" vertex="1" parent="W-pfsB-4qoveeUSPXoXc-1">
+          <mxGeometry x="880" y="250" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Mvp22J4Bc4uQw07znNL_" name="调动流程">
-    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="yclD11iEoVv_obXM92in-0" />
         <mxCell id="yclD11iEoVv_obXM92in-1" parent="yclD11iEoVv_obXM92in-0" />
@@ -617,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_n-CSzgmd-0lbspUZBG0" name="离职流程">
-    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="qBLugyMcYC4mCHdmNc9R-0" />
         <mxCell id="qBLugyMcYC4mCHdmNc9R-1" parent="qBLugyMcYC4mCHdmNc9R-0" />
@@ -625,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g0iryphYsIntNLZveLG6" name="退休流程">
-    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="XnaUQL9vNQig_e2isBbu-0" />
         <mxCell id="XnaUQL9vNQig_e2isBbu-1" parent="XnaUQL9vNQig_e2isBbu-0" />
@@ -633,7 +636,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o4FK7LvY5f_hO4uvvhnm" name="请假流程">
-    <mxGraphModel dx="1179" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="QjB2NuqEUvVJ5lk2VC4q-0" />
         <mxCell id="QjB2NuqEUvVJ5lk2VC4q-1" parent="QjB2NuqEUvVJ5lk2VC4q-0" />
