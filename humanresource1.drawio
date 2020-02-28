@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-28T01:16:05.693Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="m5NBB_TDyKXcU46r7NYq" version="12.7.6" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-28T01:17:16.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="HaNtFl0ZAi5H3FLmglAd" version="12.7.6" type="github" pages="9">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -720,10 +720,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_n-CSzgmd-0lbspUZBG0" name="离职流程">
-    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="qBLugyMcYC4mCHdmNc9R-0" />
         <mxCell id="qBLugyMcYC4mCHdmNc9R-1" parent="qBLugyMcYC4mCHdmNc9R-0" />
+        <mxCell id="rTCgzBaXk1yAIVAmN9sD-0" value="离职流程" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qBLugyMcYC4mCHdmNc9R-1">
+          <mxGeometry x="360" y="90" width="360" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="rTCgzBaXk1yAIVAmN9sD-1" value="员工" style="swimlane;html=1;startSize=20;" vertex="1" parent="rTCgzBaXk1yAIVAmN9sD-0">
+          <mxGeometry y="20" width="120" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rTCgzBaXk1yAIVAmN9sD-4" value="离职申请" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rTCgzBaXk1yAIVAmN9sD-1">
+          <mxGeometry x="15" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rTCgzBaXk1yAIVAmN9sD-2" value="部门" style="swimlane;html=1;startSize=20;" vertex="1" parent="rTCgzBaXk1yAIVAmN9sD-0">
+          <mxGeometry x="120" y="20" width="120" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rTCgzBaXk1yAIVAmN9sD-3" value="人力专员" style="swimlane;html=1;startSize=20;" vertex="1" parent="rTCgzBaXk1yAIVAmN9sD-0">
+          <mxGeometry x="240" y="20" width="120" height="530" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
