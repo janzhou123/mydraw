@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-28T01:41:17.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="aDZS7XNgMkonsDpIld1B" version="12.7.6" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-28T02:42:38.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="AcaumXza0QY-MPrRzHvy" version="12.7.6" type="github" pages="9">
   <diagram id="A04N61mchk_1eaoA9pmB" name="总览">
     <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NsK83HDfCeO16zCUjQZI" name="大图">
-    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-0" />
         <mxCell id="xuwbkzkpPA8qDGcXP7-Q-1" parent="xuwbkzkpPA8qDGcXP7-Q-0" />
@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qr8JCM6fzmoq55rnx6MN" name="入职流程">
-    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-0" />
         <mxCell id="g2mmZ4rIqAdcgixB1L-E-1" parent="g2mmZ4rIqAdcgixB1L-E-0" />
@@ -515,7 +515,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TUUhl74xc_qrMOVx7P8X" name="转正流程">
-    <mxGraphModel dx="1126" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="W-pfsB-4qoveeUSPXoXc-0" />
         <mxCell id="W-pfsB-4qoveeUSPXoXc-1" parent="W-pfsB-4qoveeUSPXoXc-0" />
@@ -614,15 +614,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mvp22J4Bc4uQw07znNL_" name="调动流程">
-    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="yclD11iEoVv_obXM92in-0" />
         <mxCell id="yclD11iEoVv_obXM92in-1" parent="yclD11iEoVv_obXM92in-0" />
         <mxCell id="oi_7eHDC-P4wJU0ed0af-0" value="调动流程" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yclD11iEoVv_obXM92in-1">
-          <mxGeometry x="290" y="20" width="530" height="610" as="geometry" />
+          <mxGeometry x="290" y="20" width="530" height="700" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-1" value="员工" style="swimlane;html=1;startSize=20;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-0">
-          <mxGeometry y="20" width="120" height="590" as="geometry" />
+          <mxGeometry y="20" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-5" value="调动申请" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-1">
           <mxGeometry x="15" y="70" width="90" height="40" as="geometry" />
@@ -631,7 +631,7 @@
           <mxGeometry x="15" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-2" value="调出部门" style="swimlane;html=1;startSize=20;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-0">
-          <mxGeometry x="120" y="20" width="155" height="590" as="geometry" />
+          <mxGeometry x="120" y="20" width="155" height="680" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oi_7eHDC-P4wJU0ed0af-2" source="oi_7eHDC-P4wJU0ed0af-6" target="oi_7eHDC-P4wJU0ed0af-8">
           <mxGeometry relative="1" as="geometry" />
@@ -643,7 +643,7 @@
           <mxGeometry x="38" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-3" value="调入部门" style="swimlane;html=1;startSize=20;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-0">
-          <mxGeometry x="275" y="20" width="120" height="590" as="geometry" />
+          <mxGeometry x="275" y="20" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oi_7eHDC-P4wJU0ed0af-3" source="oi_7eHDC-P4wJU0ed0af-10" target="oi_7eHDC-P4wJU0ed0af-12">
           <mxGeometry relative="1" as="geometry" />
@@ -690,7 +690,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-4" value="人力专员" style="swimlane;html=1;startSize=20;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-0">
-          <mxGeometry x="395" y="20" width="135" height="590" as="geometry" />
+          <mxGeometry x="395" y="20" width="135" height="680" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oi_7eHDC-P4wJU0ed0af-4" source="oi_7eHDC-P4wJU0ed0af-20" target="oi_7eHDC-P4wJU0ed0af-26">
           <mxGeometry relative="1" as="geometry" />
@@ -698,8 +698,14 @@
         <mxCell id="oi_7eHDC-P4wJU0ed0af-20" value="人力专员审批" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-4">
           <mxGeometry x="22.5" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oi_7eHDC-P4wJU0ed0af-23" value="调动调整" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-4">
+        <mxCell id="716VIBGPzf-ylEzuHwym-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oi_7eHDC-P4wJU0ed0af-4" source="oi_7eHDC-P4wJU0ed0af-23" target="716VIBGPzf-ylEzuHwym-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oi_7eHDC-P4wJU0ed0af-23" value="关系调整" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-4">
           <mxGeometry x="22.5" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="716VIBGPzf-ylEzuHwym-0" value="档案记录" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="oi_7eHDC-P4wJU0ed0af-4">
+          <mxGeometry x="22.5" y="610" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oi_7eHDC-P4wJU0ed0af-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oi_7eHDC-P4wJU0ed0af-4" source="oi_7eHDC-P4wJU0ed0af-26" target="oi_7eHDC-P4wJU0ed0af-23">
           <mxGeometry relative="1" as="geometry" />
@@ -786,7 +792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o4FK7LvY5f_hO4uvvhnm" name="请假流程">
-    <mxGraphModel dx="932" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="QjB2NuqEUvVJ5lk2VC4q-0" />
         <mxCell id="QjB2NuqEUvVJ5lk2VC4q-1" parent="QjB2NuqEUvVJ5lk2VC4q-0" />
@@ -850,7 +856,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g0iryphYsIntNLZveLG6" name="退休流程">
-    <mxGraphModel dx="1351" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="XnaUQL9vNQig_e2isBbu-0" />
         <mxCell id="XnaUQL9vNQig_e2isBbu-1" parent="XnaUQL9vNQig_e2isBbu-0" />
