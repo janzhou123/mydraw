@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T03:24:33.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="QZ4ZxcbWIDRQ97K2E4ur" version="12.9.4" type="github"><diagram id="48E9R9LrxBATiil6A1CG" name="Page-1">zZNBT4MwFIB/DUeTUbaxXcWpMc6DaDxXeKNNWopdEfDXW+QVaJYl82DihbRfX1/7vj6CKJHtnaYV26scREAWeRtENwEhW7K13x50A1gtFwMoNM8HFE4g5V+A0IXVPIejF2iUEoZXPsxUWUJmPEa1Vo0fdlDCP7WiBZyANKPilL7x3LCBbkg88XvgBXMnh2ssWFIXjJUcGc1VM0PRLogSrZQZRrJNQPTunJdh3+2Z1fFiGkpzyYb49eFlf+CHx9VH+5xmJXlasivM8klFjQXjZU3nDGim5HttNV43jBtIK5r1K419bsuYkcLOQjvEVKANtGfvGI6V244BJcHozobghihGWdgtxHVLM3OPiM20O0bxtYsx8yTEDtDJL/yQ/+UnXPt+ws2f+bHTqTd/1mY/eLT7Bg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-30T03:32:50.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="pRkdjjpsZ_X8LmD_64mn" version="12.9.4" type="github">
+  <diagram id="48E9R9LrxBATiil6A1CG" name="Page-1">
+    <mxGraphModel dx="540" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfvoH-2VEtUmeHUTUNf0-1" target="XfvoH-2VEtUmeHUTUNf0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfvoH-2VEtUmeHUTUNf0-2" target="XfvoH-2VEtUmeHUTUNf0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-4" value="自助服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="215" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-5" value="收入证明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="215" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-6" value="招聘需求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="215" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfvoH-2VEtUmeHUTUNf0-7" target="XfvoH-2VEtUmeHUTUNf0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-7" value="记账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfvoH-2VEtUmeHUTUNf0-9" target="XfvoH-2VEtUmeHUTUNf0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-9" value="算账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfvoH-2VEtUmeHUTUNf0-11" value="结算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
